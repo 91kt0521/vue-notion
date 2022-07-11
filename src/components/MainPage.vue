@@ -1,6 +1,6 @@
 <template>
   <div class="main-page">
-    メインページです
+    メインページですaaaaa
   </div>
 </template>
 
